@@ -15,3 +15,4 @@ A fast-paced, browser-based racing game built with vanilla JavaScript. Control y
 - **Pause Functionality:** Press spacebar to pause the game anytime
 - **Score Tracking:** Keep track of your current score
 - **Timer Display:** See how long you've survived
+ 
